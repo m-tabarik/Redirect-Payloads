@@ -5,10 +5,10 @@ Here is the most EASIEST AND EFFICIENT way to find OPEN REDIRECTS.
 
  1. Configure your browser With burpsuite(Pro Version is recomended for fast Targeting.If you don't have pro version no problem I've got you Covered Use [**this**](https://github.com/SNGWN/Burp-Suite) to get pro for free :).
  2. Turn on the ***intercept*** and goto 
-      > https://yourtarget.com
+      > www.yourtarget.com
  3. Send the Captured Request to **Intruder**.
  4. Set payloads directly after domain 
-      > For yourarget.com/$test$
+      > For yourtarget.com/$test$
  5. Replace *$test$* with These Payloads(by going to payloads tab in the intruder.Let all the remaining things as default).
  6. Now Start the Attack.
  7. **Look for 301 response**.
