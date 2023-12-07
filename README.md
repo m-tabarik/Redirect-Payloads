@@ -13,5 +13,5 @@ Here is the most EASIEST AND EFFICIENT way to find OPEN REDIRECTS.
  6. Now Start the Attack.
  7. **Look for 301 response**.
  8. And Kaboom you've found a redirect :)
-
+      
 If you've any Questions or a related Problem you can raise an issue or ask me personally on [Linkedin](https://www.linkedin.com/in/mtabarikasif/).
