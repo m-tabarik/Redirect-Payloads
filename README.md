@@ -9,7 +9,7 @@ Here is the most EASIEST AND EFFICIENT way to find OPEN REDIRECTS.
  3. Send the Captured Request to **Intruder**.
  4. Set payloads directly after domain 
       > `yourtarget.com/$test$`
- 5. Replace *$test$* with These Payloads(by going to payloads tab in the intruder.Let all the remaining things as default).
+ 5. Replace *$test$* with These Payloads(by going to payloads tab in the intruder.Let all the remaining things as default). 
  6. Now Start the Attack.
  7. **Look for 301 response**.
  8. And Kaboom you've found a redirect :)
